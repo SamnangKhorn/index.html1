@@ -1,0 +1,32 @@
+h3{
+    color:red;
+}
+h2{
+    color:red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color:rgb(9, 48, 26);
+}
+html{
+    color: rgb(255, 255, 255);
+}
+u{
+    color:rgba(255, 0, 0, 0.671);
+}
+
+img{
+    scrollbar-3dlight-color: aliceblue;
+}
+
+u{
+    font-family:"Forte"; 
+}
+stroke-text{
+    color: blue;
+    text-shadow: 5px;
+}
+
+
+
+
